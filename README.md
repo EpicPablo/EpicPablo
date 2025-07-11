@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Pablo
-- 👀 I’m interested in Games
-- 🌱 I’m currently learning JavasScript
-
+- 👋, I’m @Pablo
 
 <!---
 EpicPablo/EpicPablo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
